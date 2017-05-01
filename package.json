@@ -6,7 +6,7 @@
         "scope": null,
         "escapedName": "react-markdown-editor",
         "name": "react-markdown-editor",
-        "rawSpec": "^0.5.0",
+        "rawSpec": "^0.6.0",
         "spec": ">=0.5.0 <0.6.0",
         "type": "range"
       },
