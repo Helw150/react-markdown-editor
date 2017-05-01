@@ -31,7 +31,7 @@ var MarkdownEditor = React.createClass({displayName: "MarkdownEditor",
 
   propTypes: {
     initialContent: React.PropTypes.string.isRequired,
-    iconsSet: React.PropTypes.oneOf(['font-awesome', 'materialize-ui']).isRequired,
+    iconsSet: React.PropTypes.oneOf(['font-awesome', 'materialize-ui']),
       onContentChange: React.PropTypes.func,
       editorTabs: React.PropTypes.bool,
       value: React.PropTypes.string
