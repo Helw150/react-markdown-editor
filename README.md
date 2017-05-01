@@ -1,3 +1,5 @@
+# Forked and Modified for Personal Use
+### Changes include: Flag to disable Edit Menu, External Value control for ablity to load values
 # react-markdown-editor
 A markdown editor using React/Reflux.
 
